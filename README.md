@@ -29,5 +29,5 @@ module "ses" {
 ## 👬 Contribution
 
 - Open pull request with improvements
-- Reach out with any feedback [![Github URL(https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg)]](https://github.com/AmjadHussainSyed)
+- Reach out with any feedback [![Github URL]](https://github.com/AmjadHussainSyed)
                                          
